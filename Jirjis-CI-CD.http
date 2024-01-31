@@ -1,0 +1,6 @@
+@Jirjis_CI_CD_HostAddress = http://localhost:5234
+
+GET {{Jirjis_CI_CD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
